@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kalkulator Sederhana</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="tombol_x">X</string>
+	<string name="tombol_bagi">/</string>
+	<string name="tombol_plus">+</string>
+	<string name="tombol_min">-</string>
+	<string name="histori">History</string>
+	
+</resources>
